@@ -1,4 +1,3 @@
-
 const mineflayer = require('mineflayer');
 const { Movements, pathfinder, goals } = require('mineflayer-pathfinder');
 const { GoalBlock } = goals;
@@ -397,7 +396,7 @@ function createBot() {
 
   console.log(`[Bot] [+] Successfully spawned on server!`);
 
-  // 🔐 FORCE LOGIN SYSTEM (Perzaan Edition)
+  // ðŸ” FORCE LOGIN SYSTEM (Perzaan Edition)
 
       bot.on('messagestr', (msg) => {
   const message = msg.toLowerCase();
@@ -598,4 +597,4 @@ function periodicRejoin(bot) {
 // MOVEMENT HELPERS
 // ============================================================
 function startCircleWalk(bot, defaultMove) {
-  co
+  
