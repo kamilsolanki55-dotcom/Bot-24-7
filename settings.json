@@ -9,7 +9,7 @@
   "server": {
     "ip": "KxGang.aternos.me",
     "port": 25586,
-    "version": "1.26.45.1"
+    "version": "1.26.45"
   },
   "position": {
     "enabled": true,
